@@ -39,7 +39,7 @@ public class CCuenta {
     }
     
 
-    // VERSION 1
+    // VERSION 2
     
     private String nombre;
     private String cuenta;
